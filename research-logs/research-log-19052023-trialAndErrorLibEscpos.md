@@ -1,4 +1,4 @@
-[Back to Research Logs](https://github.com/denitiawan/research-reac-escpos/blob/main/research-logs.md](https://github.com/denitiawan/research-react-escpos/tree/main)
+[Back to Research Logs](https://github.com/denitiawan/research-react-escpos/tree/main)
 
 |Date|Assign|
 |--|--|
