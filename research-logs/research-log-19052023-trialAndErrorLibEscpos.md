@@ -1,8 +1,8 @@
-[Back to Research Logs](https://github.com/denitiawan/research-electron-react-boilerplate-printthermal/blob/main/research-logs.md)
+[Back to Research Logs](https://github.com/denitiawan/research-reac-escpos/blob/main/research-logs.md)
 
 |Date|Assign|
 |--|--|
-|17-mei-2023|[Deni Setiawan](https://github.com/denitiawan)|
+|19-mei-2023|[Deni Setiawan](https://github.com/denitiawan)|
 # Setup EscPos on Electron React Boilerplate with Thermal Printer
 
 
@@ -184,39 +184,6 @@ export default function App() {
 
 
 # Notes
-### Solving problem  `usb.on` 
-```
-    /**
-     * solving issue usb.on : 
-     * - npm install usb@1.9.2
-     * - https://github.com/song940/node-escpos/issues/376
-     */
-
-    /**
-     * registration idVendor & idProduct printer
-     * - https://github.com/song940/node-escpos/blob/v3/packages/usb/README.md
-     */
-```
-
-### Solving problem `printer only work in first times`
-```
-if your printer is 'Thermal Printer' using 'printer.close();'
-if your printer is 'Dot Matrix Printer' using 'printer.flush();'
-
-----------------------------
-see the code implementation on below:
-- Thermal Printer:
-    .....
-    printer.cut(); 
-    printer.cashdraw(2);
-    printer.close();        
-        
-- Dot Matrix Printer:
-    .....
-    printer.cut(); 
-    printer.cashdraw(2);
-    printer.flush();                    
-```
 ###  Example of codes for get idVendor & idProduct Printer for initialize  the printer
 ```
 ---- code --------
