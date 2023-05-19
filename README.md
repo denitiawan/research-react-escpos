@@ -10,6 +10,7 @@ This repository have example code for setup and implementation [ESCPOS](https://
 - ![image](https://github.com/denitiawan/research-electron-react-boilerplate-printthermal/assets/11941308/3d80eb77-30ec-465a-a0ab-95be98bc20bf)
 
 # How to setup ESCPOS on your React.js project?
+https://github.com/denitiawan/research-react-escpos/blob/main/research-logs/research-log-19052023-trialAndErrorLibEscpos.md
 
 
 # How to test this repo?
