@@ -35,5 +35,5 @@ cd research-react-escpos.git
 - printer will printout the receipt
 
 # Research Logs
-https://github.com/denitiawan/research-react-escpos/research-logs
+[https://github.com/denitiawan/research-react-escpos/research-logs](https://github.com/denitiawan/research-react-escpos/tree/main/research-logs)
 
