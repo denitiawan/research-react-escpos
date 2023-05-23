@@ -10,28 +10,30 @@ This repository have example code for setup and implementation [ESCPOS](https://
 - ![image](https://github.com/denitiawan/research-electron-react-boilerplate-printthermal/assets/11941308/3d80eb77-30ec-465a-a0ab-95be98bc20bf)
 
 # How to setup ESCPOS on your React.js project?
+https://github.com/denitiawan/research-react-escpos/blob/main/research-logs/research-logs-22052023-setupEscposForReactjs.md
 
 
-# How to test this repo?
-- `clone` this project
-- cd into this repo > `npm install`
-- install escpos lib
+# How to test this repo
+- clone repository
 ```
-npm i escpos@3.0.0-alpha.6
-npm i escpos-usb@3.0.0-alpha.4
-npm i usb@1.9.2
+git clone https://github.com/denitiawan/research-electron-react-boilerplate-escpos.git
 ```
-- run app with `npm start`
+- cd into this repo 
+```
+cd research-react-escpos.git
+```
+- install node_modules
+ ```
+ npm install
+ ```
+- run app 
+```
+`npm start`
+```
 - plug usb printer
 - klik button test print
 - printer will printout the receipt
 
-
 # Research Logs
-
-
-
-
-
-
+https://github.com/denitiawan/research-react-escpos/research-logs
 
