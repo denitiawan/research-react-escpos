@@ -1,5 +1,5 @@
 
-[Back to Research Logs]()
+[Back to Research Logs](https://github.com/denitiawan/research-react-escpos/tree/main/research-logs)
 
 |Date|Assign|
 |--|--|
