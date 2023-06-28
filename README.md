@@ -1,3 +1,6 @@
+
+# [ESCPOS ON REACT PROJECT STILL UNDER RESEARCH]
+
 # What is this?
 This repository have example code for setup and implementation [ESCPOS](https://github.com/song940/node-escpos) librarry on [react.js](https://create-react-app.dev/) project, for printing the receipt with Thermal Printer (USB Adapter)
 
